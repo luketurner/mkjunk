@@ -11,6 +11,18 @@ This is extremely simplistic, but unlike other "dummy text" CLI snippets, `mkjun
 
 Informational messages are written to STDERR.
 
+Depends on Python 3.
+
+## Installation
+
+```
+# Install with Python 3
+pip install git+https://github.com/luketurner/mkjunk.git
+
+# Ready to go!
+mkjunk --help
+```
+
 ## Examples
 
 ``` bash
