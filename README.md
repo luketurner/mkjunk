@@ -38,3 +38,5 @@ Options:
   -s, --seed TEXT  alternate seed text for generation
   --help           Show this message and exit.
 ```
+
+Released under MIT License.
