@@ -4,7 +4,7 @@ setup(
     name = 'mkjunk',
     version = '1.0.0',
     packages = ['mkjunk'],
-    intall_requires = [
+    install_requires = [
         'humanfriendly >= 4.8',
         'click > 6.7'
     ],
